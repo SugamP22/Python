@@ -1,0 +1,5 @@
+num1=float(input("Ingresa numero = "))
+num2=float(input("Ingresa numero = "))
+num3=float(input("Ingresa numero = "))
+num4=float(input("Ingresa numero = "))
+print(f"la suma del numero {num1} e {num2} es {num1+num2}\nEl producto del numero {num3} e {num4} es {num3*num4}")
