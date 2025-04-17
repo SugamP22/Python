@@ -5,7 +5,7 @@
 nombre="AuGam"
 sugamENMini=nombre.lower()
 cantidadVocales=0
-for i in range(0,len(sugamENMini)-1):
+for i in range(0,len(sugamENMini)):
   if sugamENMini[i] in ['a','e','i','o','u']:
     cantidadVocales+=1
 print(f"Numero de vocales in {nombre} es {cantidadVocales}")
