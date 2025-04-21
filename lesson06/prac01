@@ -1,0 +1,11 @@
+# print len of a list
+num=[1,2,3,4,5,6,6,7,8,9,10]
+num2=[1,2,3,4,5,6,6,7,8,9,10,11]
+num3=[1,2,3,4,5,6,6,7,8]
+
+def contarLen(a):
+  print(len(a))
+  
+contarLen(num)
+contarLen(num2)
+contarLen(num3)
