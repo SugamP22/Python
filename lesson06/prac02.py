@@ -3,7 +3,7 @@ num=[1,2,3,4,5,6,7]
 
 def elementos(a):
   for items in a:
-    print(items)
+    print(items,end=" ")
 
 
 elementos(num)
