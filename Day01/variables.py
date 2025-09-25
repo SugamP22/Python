@@ -29,3 +29,4 @@ print(bool(j))
 print(bool(k))
 l=1
 print(bool(l))
+int=2
