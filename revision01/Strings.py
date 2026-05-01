@@ -5,3 +5,5 @@ print(chr(72))
 b = "Hello"
 print(b[0:3:1])
 print(b[::])
+"""
+0,0.0,False,(),{},[],"","""
